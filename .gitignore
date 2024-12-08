@@ -1,0 +1,10 @@
+.vscode
+.clangd
+build
+compile_commands.json
+/.vs
+.cache
+out
+/*build*
+.DS_Store
+external/.DS_Store
